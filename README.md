@@ -1,4 +1,1 @@
-# mingw.serial.io
-serial input output to terminal view
-
-change char *ttys=console to char *ttys=COM1
+java function create, creats a function id number of inputs and formula to computes
